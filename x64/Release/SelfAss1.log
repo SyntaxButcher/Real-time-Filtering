@@ -1,0 +1,26 @@
+﻿  filter.cpp
+D:\TA5330\SelfAss1\filter.cpp(71,89): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\TA5330\SelfAss1\filter.cpp(116,91): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=short
+          ]
+D:\TA5330\SelfAss1\filter.cpp(133,33): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\TA5330\SelfAss1\filter.cpp(158,29): warning C4244: '=': conversion from 'short' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 103 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SelfAss1.vcxproj -> D:\TA5330\SelfAss1\x64\Release\SelfAss1.exe
