@@ -23,7 +23,8 @@ Here are the filters used in the project and what they do:
 ![blurQuant](https://github.com/SyntaxButcher/Real-time-Filtering/blob/main/Results/BlurQuantize.png)
 
 **Cartoonize Filter**: This filter sets each pixel in the image to black if it's less than some fixed value (the threshold) or to quantized version if it's more.
-![toon](https://github.com/SyntaxButcher/Real-time-Filtering/blob/main/Results/Cartoonize.png)
+
+![toon]<img src="https://github.com/SyntaxButcher/Real-time-Filtering/blob/main/Results/Cartoonize.png" width="50%" height="50%">
 
 
 The order of these filters can be modified, and new filters can be added as per the requirement. The goal of this project is to create a flexible, extensible system for real-time video filtering.
