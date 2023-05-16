@@ -7,7 +7,7 @@ The project extracts frames from a live video feed, applies a series of filters 
 Here are the filters used in the project and what they do:
 
 Grayscale Filter: This filter converts the colored image into shades of gray. It does this by removing the hue and saturation information while retaining the luminance.
-!(https://github.com/SyntaxButcher/Real-time-Filtering/blob/main/Results/Grayscale.png)
+![blur](https://github.com/SyntaxButcher/Real-time-Filtering/blob/main/Results/Grayscale.png)
 
 Gaussian Blur Filter: This filter is used to blur the image, reducing its high-frequency components. The name comes from the Gaussian kernel, which is used to create the effect. It can help in noise reduction and is often used in reducing detail and noise, and preparing an image for further processing.
 
